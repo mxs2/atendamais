@@ -35,7 +35,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Requisitos do Projeto
 
-- [ ] Adotar JAVA para codificar.
+- [x] Adotar JAVA para codificar.
 - [ ] Adotar as boas práticas de programação orientada a objetos.
 - [ ] Utilizar no código pelo menos três pilares da OO.
 - [ ] Implementar um programa para demonstrar a sua solução. 
