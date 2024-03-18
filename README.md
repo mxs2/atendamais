@@ -35,11 +35,11 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Requisitos do Projeto
 
-- [] Adotar JAVA para codificar.
-- [] Adotar as boas práticas de programação orientada a objetos.
-- [] Utilizar no código pelo menos três pilares da OO.
-- [] Implementar um programa para demonstrar a sua solução. 
-- [] Implementar o CRUD (create, read, update, delete) para cada entidade da solução.
-- [] Implementar as regras de negócio da solução (funcionalidades).
-- [] Implementar uma classe de persistência para o repositório de dados.
-- [] Utilizar o paradigma de arquitetura em camadas para a solução.
+- [ ] Adotar JAVA para codificar.
+- [ ] Adotar as boas práticas de programação orientada a objetos.
+- [ ] Utilizar no código pelo menos três pilares da OO.
+- [ ] Implementar um programa para demonstrar a sua solução. 
+- [ ] Implementar o CRUD (create, read, update, delete) para cada entidade da solução.
+- [ ] Implementar as regras de negócio da solução (funcionalidades).
+- [ ] Implementar uma classe de persistência para o repositório de dados.
+- [ ] Utilizar o paradigma de arquitetura em camadas para a solução.
