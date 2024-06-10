@@ -31,7 +31,7 @@ projeto Maven. Leia mais sobre [como importar projetos Vaadin para diferentes ID
 
 ## Requisitos técnicos
 
-[Clique aqui para conferir](docs\tech.pdf).
+[Clique aqui para conferir](docs/tech.pdf).
 
 ## Contribuições
 
